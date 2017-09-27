@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 800 800" style="enable-background:new 0 0 800 800;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:url(#XMLID_11_);stroke:url(#XMLID_12_);stroke-miterlimit:10;}
+	.st1{fill:none;stroke:#FFFFFF;stroke-width:20;stroke-miterlimit:10;}
+	.st2{fill:none;stroke:#FFFFFF;stroke-width:10;stroke-miterlimit:10;}
+	.st3{fill:none;stroke:#FFFFFF;stroke-width:12;stroke-miterlimit:10;}
+	.st4{fill:#FFFFFF;}
+	.st5{font-family:'MyanmarText';}
+	.st6{font-size:180px;}
+	.st7{fill:none;stroke:#FFFFFF;stroke-width:6;stroke-miterlimit:10;}
+	.st8{fill:none;stroke:#FFFFFF;stroke-width:4;stroke-miterlimit:10;}
+	.st9{fill:none;stroke:#FFFFFF;stroke-width:8;stroke-miterlimit:10;}
+</style>
+<linearGradient id="XMLID_11_" gradientUnits="userSpaceOnUse" x1="61" y1="409.5" x2="754" y2="409.5">
+	<stop  offset="0" style="stop-color:#D2D2D2"/>
+	<stop  offset="1" style="stop-color:#C3DCCA"/>
+</linearGradient>
+<linearGradient id="XMLID_12_" gradientUnits="userSpaceOnUse" x1="60.5" y1="409.5" x2="754.5" y2="409.5">
+	<stop  offset="0" style="stop-color:#D2D2D2"/>
+	<stop  offset="1" style="stop-color:#C1E4DB"/>
+</linearGradient>
+<ellipse id="XMLID_3_" class="st0" cx="407.5" cy="409.5" rx="346.5" ry="329.5"/>
+<path id="XMLID_1_" class="st1" d="M598.2,567H228.1c-17.5,0-31.7-14.2-31.7-31.7v-256c0-17.5,14.2-31.7,31.7-31.7h370.1
+	c17.5,0,31.7,14.2,31.7,31.7v256C630,552.8,615.8,567,598.2,567z"/>
+<line id="XMLID_2_" class="st2" x1="196.4" y1="309" x2="630" y2="309"/>
+<line id="XMLID_4_" class="st3" x1="341" y1="281" x2="547.4" y2="281"/>
+<ellipse id="XMLID_7_" class="st4" cx="226" cy="281" rx="11" ry="11.3"/>
+<line id="XMLID_8_" class="st3" x1="560.6" y1="281" x2="606.9" y2="281"/>
+<text id="XMLID_9_" transform="matrix(1 0 0 1 250.8981 485)" class="st4 st5 st6">&lt;/&gt;</text>
+<ellipse id="XMLID_5_" class="st4" cx="266" cy="281" rx="11" ry="11.3"/>
+<ellipse id="XMLID_6_" class="st4" cx="308.3" cy="281" rx="11" ry="11.3"/>
+<path id="XMLID_32_" class="st7" d="M259.6,642"/>
+<path id="XMLID_30_" class="st7" d="M293.5,659.8"/>
+<path id="XMLID_16_" class="st8" d="M249.9,706.9"/>
+<ellipse id="XMLID_14_" class="st9" cx="405.5" cy="407.2" rx="390.5" ry="374"/>
+</svg>
