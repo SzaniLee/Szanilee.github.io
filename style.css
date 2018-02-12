@@ -25,7 +25,7 @@
 
    #concept h5 { font-size: 12px;}
 
- #about , #portfolio , #digitalwork, #eyesproject { background-image: url("././img/bgbigger.png") no-repeat center center fixed; 
+  #portfolio , #digitalwork, #eyesproject { background-image: url("././img/bgbigger.png") no-repeat center center fixed; 
 -webkit-background-size: cover;
 -moz-background-size: cover;
 -o-background-size: cover;
@@ -51,7 +51,7 @@ background-size: cover;
     	max-height: 300px;}
 
     .projectimage { padding-top: 50px; }
- #about , #portfolio , #digitalwork { background-image: url("././img/bgbigger2.png") no-repeat center center fixed !important; 
+  #portfolio , #digitalwork { background-image: url("././img/bgbigger2.png") no-repeat center center fixed !important; 
 -webkit-background-size: cover !important;
 -moz-background-size: cover!important;
 -o-background-size: cover !important;
@@ -200,7 +200,7 @@ html, body {
 
 #headerpart {
 
-background-image: url("././img/newbgbigger.png") !important;
+background-image: url("././img/bgbigger3.png") !important;
 
  background-repeat: no-repeat;
 background-color: #f9e7b2;
@@ -416,7 +416,7 @@ font-family: 'Amatica SC', cursive;
 
 #about{
 
-background-image: url("././img/bgbigger2.png") !important;
+background-image: url("././img/bgbigger3.png") !important;
 	background: #737271;
 	padding-top: 40px;
 	padding-bottom: 10px;
