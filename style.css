@@ -803,10 +803,9 @@ button {
 
 .headerp button.btn.btn-default {
 
-	position: fixed;
+    margin-right: 20px !important;
   /*top: 50%;*/
- left: 50%;
-  transform: translate(-50%, -50%);
+ 
 
 
 
