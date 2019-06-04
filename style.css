@@ -25,7 +25,7 @@
 
    #concept h5 { font-size: 12px;}
 
-  #portfolio , #digitalwork, #eyesproject { background-image: url("././img/bgbigger.png") no-repeat center center fixed; 
+ #digitalwork, #eyesproject { background-image: url("././img/bgbigger.png") no-repeat center center fixed; 
 -webkit-background-size: cover;
 -moz-background-size: cover;
 -o-background-size: cover;
@@ -48,10 +48,11 @@ background-size: cover;
 
    .aboutmeimage {
     	padding-top: 30px; 
+    	padding-bottom: 40px; 
     	max-height: 300px;}
 
     .projectimage { padding-top: 50px; }
-  #portfolio , #digitalwork { background-image: url("././img/bgbigger2.png") no-repeat center center fixed !important; 
+ /* #portfolio , #digitalwork { background-image: url("././img/bgbigger3.png") no-repeat center center fixed !important;*/
 -webkit-background-size: cover !important;
 -moz-background-size: cover!important;
 -o-background-size: cover !important;
@@ -79,18 +80,27 @@ background-size: cover !important;
 
 .navbar.navbar-fixed-top a {
 	font-size: 14px !important;
-	color: white !important;
-	font-family: 'Oswald', sans-serif !important;
+	color: #3d2269 !important;
+	font-family:'Roboto Condensed', sans-serif;
+	font-weight: 600;
 	text-transform: uppercase;
+	background-color: transparent !important;
  }
 
+
+
 .navbar.navbar-fixed-top a:hover {
-	background-color: #fdf2af !important;
+	background-color: #f59fae !important;
+	font-size: 14px !important;
+	color: #3d2269 !important;
+	font-family:'Roboto Condensed', sans-serif;
+
 }
 
 .navbar.navbar-fixed-top {
-	background-color: rgba(0, 0, 0, 0.1);
+	background-color: #fbe7eb;
 	border-color: transparent;
+	padding-right: 60px;
 }
 
 
@@ -157,6 +167,7 @@ html, body {
 	margin: 0 auto;
 
 
+
 }
 
 #header {
@@ -165,21 +176,28 @@ html, body {
 
 .headerheader-inner #hello h1{
 
-	
-	/*padding-bottom: 20px;*/
-		font-family: 'Amatica SC', cursive;
-	font-size: 62px;
-	font-weight: 800;
+	color: #3d2269;
+
+		font-family: 'Playfair Display', serif;
+	font-size: 64px;
+	font-weight: 900;
+
+
+
 	
 	text-align: center;
 }
 
 .headerheader #hello p {
-	padding-bottom: 20px;
+	padding-bottom: 30px;
 	line-height: 28px;
-	font-size: 15px;
-	color:white;
-	font-family: 'Oswald', sans-serif;
+	font-size: 14px;
+	color: #3d2269;
+	font-family: 'Playfair Display', serif;
+	font-weight: 800;
+
+
+	text-align: center;
 	
 	
 }
@@ -200,10 +218,10 @@ html, body {
 
 #headerpart {
 
-background-image: url("././img/bgbigger3.png") !important;
+
 
  background-repeat: no-repeat;
-background-color: #f9e7b2;
+background-color: #fbe7eb !important;
 background: fixed;
 
     
@@ -228,7 +246,17 @@ background: fixed;
 
 #portfolio h1 {
 
-	color: white;
+	color: #3d2269 !important;
+}
+
+#portfolio p {
+
+	font-size: 14px;
+	line-height: 28px;
+	color: #3d2269;
+		font-family:'Roboto Condensed', sans-serif;
+		padding-bottom: 5px;
+		text-align: center;
 }
 
 #portfolio h6 {
@@ -237,7 +265,7 @@ background: fixed;
 
 	color: white;
 		font-family: 'Roboto Condensed', sans-serif;
-		color: white;
+		color: #3d2269;
 
 	font-size: 16px;
 	font-style: bold;
@@ -280,11 +308,12 @@ background: fixed;
 }
 
 #process h2 {
-	font-family: 'Oswald', sans-serif;
+	font-family: 'Playfair Display', serif;
 	font-size: 22px;
 	text-transform: uppercase;
-	font-style: bold;
-	padding-bottom: 10px;
+	font-weight: 800;
+	padding-bottom: 20px;
+	padding-top: 20px;
 	color: white;
 	font-kerning: 10px;
 	
@@ -292,9 +321,9 @@ background: fixed;
 
 #process h1{
 
-	font-family: 'Amatica SC', cursive;
-	font-size: 50px;
-	text-transform: uppercase;
+	font-family: 'Playfair Display', serif;
+	font-size: 38px;
+	letter-spacing: 0.1em;
 	font-style: bold;
 	color: white;
 	text-align: center;
@@ -311,10 +340,10 @@ background: fixed;
 }
 
 #process {
-	background-image: url("././img/servicesbg.png");
+	
 
 
-	background-color: #f7c0be;
+	background-color: #f7cfc9;
 	padding-bottom: 80px;
 	padding-right: 30px;
 }
@@ -342,8 +371,8 @@ background: fixed;
 }
 #portfolio {
 
-		background-image: url("././img/servicesbg.png") !important;
-	background-color: #fac5ba;
+		background-color: #fbe7eb !important;
+	
 	padding-right: 20px;
 	background: fixed;
 		background-repeat: no-repeat;
@@ -364,9 +393,9 @@ padding-right: 3px;
 }
 
 #portfolio h1 {
-font-family: 'Amatica SC', cursive;
-	font-size: 50px;
-	text-transform: uppercase;
+font-family: 'Playfair Display', serif;
+	font-size: 38px;
+	letter-spacing: 0.1em;
 	font-style: bold;
 	color: white;
 	text-align: center;
@@ -376,7 +405,7 @@ font-family: 'Amatica SC', cursive;
 
 
 #portfolio h2 {
-	font-family: 'Oswald', sans-serif;
+	font-family: 'Playfair Display', serif;
 	font-size: 24px;
 	text-transform: uppercase;
 	font-style: bold;
@@ -386,13 +415,13 @@ font-family: 'Amatica SC', cursive;
 
 
 #portfolio h4 {
-	font-family: 'Oswald', sans-serif;
+	font-family: 'Playfair Display', serif;
 	font-size: 22px;
-	font-style: bold;
-	color: white;
+	font-weight: 800;
+	color: #3d2269;
 	text-align: center;
-	padding-bottom: 20px;
-	padding-top: 30px;
+	padding-bottom: 0px;
+	padding-top: 0px;
 }
 
 
@@ -416,10 +445,10 @@ font-family: 'Amatica SC', cursive;
 
 #about{
 
-background-image: url("././img/bgbigger3.png") !important;
-	background: #737271;
+
+	background: #ffffff !important;
 	padding-top: 40px;
-	padding-bottom: 10px;
+	padding-bottom: 40px;
 	padding-right: 20px;
 	background: fixed;
 	background-repeat: no-repeat;
@@ -427,11 +456,10 @@ background-image: url("././img/bgbigger3.png") !important;
 }
 
 #about h1 {
-font-family: 'Amatica SC', cursive;
-	font-size: 50px;
-	text-transform: uppercase;
-	font-style: bold;
-	color: white;
+	font-family: 'Playfair Display', serif;
+	font-size: 38px;
+	color: #3d2269;
+	letter-spacing: 0.1em;
 	text-align: center;
 	padding-bottom: 60px;
 	font-weight: 800;
@@ -440,10 +468,10 @@ font-family: 'Amatica SC', cursive;
 }
 
 #about h2{
-		font-family: 'Oswald', sans-serif;
-	font-size: 22px;
-	text-transform: uppercase;
-	font-style: bold;
+		font-family: 'Playfair Display', serif;
+	font-size: 28px;
+	
+
 	color: white;
 	font-kerning: 10px;
 	text-align: left;
@@ -461,20 +489,20 @@ font-family: 'Amatica SC', cursive;
     right: 0;
     bottom: 0;
     padding-top: 15px;
-    max-height: 700px;
+    max-height: 750px;
 
 }
 
 #logobottom{
-	background-image: url("././img/newbgbigger.png") !important;
-	background: #b1dfd7;
+	/*background-image: url("././img/newbgbigger.png") !important;*/
+	background: #e48062;
 	padding-top: 30px;
 	padding-bottom: 30px;
 	padding-right: 20px;
 }
 
 #logobottom h3 {
-	color: white;
+	color: #ffffff;
 	font-size: 20px;
 	font-family: 'Oswald', sans-serif;
 	text-align: center;
@@ -484,21 +512,28 @@ font-family: 'Amatica SC', cursive;
 
 #footer {
 
-background-image: url("././img/servicesbg.png");
+background-color: #3c286a;
+
+padding-right: 20px;
+}
+
+#footer2 {
+
+background-color: #32429a;
 
 padding-right: 20px;
 }
 
 
+
 #footer h1 {
 
-	font-family: 'Amatica SC', cursive;
-	font-size: 50px;
-	text-transform: uppercase;
-	font-style: bold;
-	color: white;
+	font-family: 'Playfair Display', serif;
+	font-size: 38px;
+	letter-spacing: 0.1em;
+	color: #ffffff;
 	text-align: center;
-	padding-bottom: 60px;
+	padding-bottom: 20px;
 	font-weight: 800;
 }
 
@@ -512,11 +547,101 @@ padding-right: 20px;
 
 }
 
+
+.zeitintro p, ul, li {
+
+	font-size: 14px;
+	line-height: 18px;
+	color: #3c286a;
+		font-family:'Roboto Condensed', sans-serif;
+		padding-bottom: 0px;
+		text-align: center;
+
+	}
+
+	.zeitintro p {
+
+	font-size: 14px;
+	line-height: 18px;
+	color: #3c286a;
+		font-family:'Roboto Condensed', sans-serif;
+		padding-bottom: 0px;
+		text-align: center;
+
+	}
+
+
+.zeitintro {
+
+	padding-bottom: 40px;
+	padding-right: 30px;
+
+
+	}
+
+.zeitintro h6 {
+
+	font-size: 11px;
+	line-height: 28px;
+	color: #9f9aaa;
+	font-family:'Roboto Condensed', sans-serif;
+	padding-top: 10px;
+	text-align: center;
+
+
+
+	}
+
+#zeitheader h1 {
+	font-family: 'Playfair Display', serif;
+	font-size: 38px;
+	color: #3c286a !important;
+		padding-top: 40px;
+	text-align: center;
+	padding-bottom: 0px;
+	font-weight: 800;
+
+
+}
+
+
+.demo-problem, .demo-solution {
+  font-size: 20px;
+  position: center;
+  font-style: bold;
+  color: white;
+		font-family:'Roboto Condensed', sans-serif;
+}
+
+.demo-solution--flexbox {
+
+  align-items: center;
+   position: center;
+  
+ 
+}
+}
+
+#footer p {
+	color: white !important;
+	font-size: 14px;
+	
+	text-transform: uppercase;
+	font-style: bold;
+	padding-bottom: 40px;
+	
+		font-family: 'Roboto Condensed', sans-serif;
+
+
+
+
+}
 #footer h5 {
 	color: white;
-	font-size: 18px;
-	font-family: 'Oswald', sans-serif;
-	padding-bottom: 40px
+	font-size: 17px;
+		float: left;
+	font-style: bold;
+	font-family: 'Roboto Condensed', sans-serif;
 
 
 
@@ -556,10 +681,10 @@ padding-right: 20px;
 
 
 p {
-	font-size: 17px;
+	font-size: 18px ;
 	line-height: 28px;
 	color: white;
-		font-family: 'Roboto Condensed', sans-serif;
+		font-family: 'PT Sans Narrow', sans-serif;
 		
 	
 }
@@ -569,7 +694,7 @@ p {
 	text-transform: uppercase;
 	font-weight: 800em;
 	font-size: 15px;
-	font-family: 'Oswald', sans-serif;
+	font-family:'Roboto Condensed', sans-serif;
 	font-style: bold;
 	
 }
@@ -579,48 +704,48 @@ p {
 	text-transform: uppercase;
 	font-weight: 800em;
 	font-size: 15px;
-	font-family: 'Oswald', sans-serif;
+	font-family:'Roboto Condensed', sans-serif;
 	font-style: bold;
 }
 
 .quote {
-	color: white; 
-	font-family: 'Oswald', sans-serif;
-	font-size: 24px;
-	text-transform: uppercase;
-	font-style: bold;
+	color: #3c286a; 
+	font-family: 'Playfair Display', serif;
+	font-size: 22px;
+	
+	font-weight: 800;
 	font-kerning: 10px;
-	padding-top: 30px;
-	padding-bottom: 30px;
+	padding-top: 10px;
+	padding-bottom: 10px;
 }
 
 #about p {
-		font-size: 15px;
+		font-size: 14px;
 	line-height: 28px;
-	color: white;
-		font-family: 'Roboto Condensed', sans-serif;
-		padding-bottom: 20px;
-		text-align: right;
+	color: #3d2269;
+		font-family:'Roboto Condensed', sans-serif;
+		padding-bottom: 5px;
+		text-align: left;
 
 
 }
 
 #about h6 {
-		font-size: 13px;
+		font-size: 14px;
 	line-height: 28px;
-	color: white;
-		font-family: 'Inconsolata', 'VT323', monospace;
-		padding-bottom: 20px;
-		text-align: right;
+	color: #3d2269;
+		font-family:'Roboto Condensed', sans-serif;
+		padding-bottom: 5px;
+		text-align: left;
 
 
 }
 
 #process p {
-		font-size: 15px;
-	line-height: 28px;
+		font-size: 16px;
+	line-height: 34px;
 	color: white;
-		font-family: 'Roboto Condensed', sans-serif;
+	font-family: 'Lora', serif;
 		padding-bottom: 20px;
 }
 
@@ -630,18 +755,20 @@ p {
 	background-color: black;
 }
 .btn{
-	background: #bfbcbc;
-	font-family: 'Oswald', sans-serif;
-	font-size: 11px;
+	background: #a7d8bc;
+	font-family:'Roboto Condensed', sans-serif;
+	font-size: 14px;
 	text-transform: uppercase;
 	color: white;
+	font-weight: 800 !important;
+	
 	
 }
 
 .btn.bottom:hover {
 	background: #b1dfd7;
 	font-family: 'Oswald', sans-serif;
-	font-size: 11px;
+	font-size: 14px;
 	text-transform: uppercase;
 	color: white !important;
 }
@@ -649,8 +776,8 @@ p {
 
 li a{
 
-	color: #fac4ba;
-	font-family: 'Oswald', sans-serif;
+	color: #f2b965;
+	font-family:'Roboto Condensed', sans-serif;
 	font-size: 14px;
 
 
@@ -658,8 +785,8 @@ li a{
 
  li a:hover{
 
-	color: white;
-	font-family: 'Oswald', sans-serif;
+	color: f2b965;
+	font-family:'Roboto Condensed', sans-serif;
 	font-size: 14px;
 
 
@@ -675,22 +802,30 @@ button {
 }
 
 .headerp button.btn.btn-default {
-	margin-right: 20px !important;
+
+	position: fixed;
+  /*top: 50%;*/
+ left: 50%;
+  transform: translate(-50%, -50%);
+
+
+
+ 
 }
 
 button.btn.btn-lg{
 
-	color: white;
+	color: #f2b965;
 	border-bottom: 3px solid white;
 	border-top: 3px solid white;
-	margin: -20px -50px; 
+	
     position:relative;
     top:50%; 
     left:50%;
 }
 
 button.btn.btn-lg a {
-	color: transparent;
+	color: #f2b965;
 	background-color: white;
 	border-style: solid;
 	border-color: white;
@@ -700,22 +835,24 @@ button.btn.btn-lg a {
 
 button.btn.btn-default{
 
-	color: white;
-	background-color: transparent !important;
+	color: #ffffff;
+	background-color: #e48062 !important;
 	border-style: solid;
-	border-color: white;
-	border-width: 1px;
-	vertical-align: middle;
+	border-color: #3d2269;
+	border-width: 0px;
+	
+	box-shadow: 1px;
+
 
 
 }
 
-button.btn.btn-default:active{
+button.btn.btn-default :active{
 	box-shadow:none;
-	color:white !important;
+	color: white !important;
 	border-style: solid;
-	border-color: white;
-	border-width: 1px;
+	border-color: #f59fae;
+	border-width: 0px;
 }
 
 button.btn.btn-default:focus{
@@ -723,15 +860,16 @@ button.btn.btn-default:focus{
 	outline:none !important;
 	border-style: solid;
 	border-color: white;
-	border-width: 1px;
+	border-width: 0px;
 
 }
 button.btn.btn-default:hover{
 
-background-color: #fdf2af !important;
+background-color: #f59fae !important;
 border: solid !important;
+color: #3c286a;
 	border-color: white ;
-	border-width: 1px !important;
+	border-width: 0px !important;
 
 
 }
@@ -1052,29 +1190,68 @@ text-align: center;
 }
 
 
-#ultra1 {
-
-		background-image: url("././img/ultrabg.png");
-	
-	padding-top: 10px;
-	padding-bottom: 80px;
+#zeit1 {
+	background: #ffffff !important;
+	padding-top: 40px;
+	padding-bottom: 40px;
 	padding-right: 20px;
+	
 
 }
 
-#ultra1 h1 {
-font-family: 'Satisfy', cursive, 'Amatica SC', cursive;
-	font-size: 45px;
+
+
+#zeit1 h2 {
+font-family: 'Playfair Display', serif;
+	font-size: 38px;
+	color: #3c286a !important;
+	letter-spacing: 0.1em;
+	text-align: center;
+	padding-bottom: 60px;
+	font-weight: 600;
+
+
+}
+
+
+
+#zeit1 p, ul, li {
+	font-size: 14px;
+	line-height: 28px;
+	color: #3c286a;
+	font-family:'Roboto Condensed', sans-serif;
+	padding-bottom: 0px;
+	text-align: left;
+
+
+}
+
+#zeitheader h1 {
+	font-family: 'Playfair Display', serif;
+	font-size: 38px;
 	color: white;
+	letter-spacing: 0.1em;
 	text-align: center;
 	padding-bottom: 20px;
-
-	padding-top: 60px;
+	padding-top: 40px;
+	font-weight: 600;
 
 
 }
 
-#ultra1 h2{
+#aboutproject h3 {
+	font-family: 'Playfair Display', serif;
+	font-size: 22px;
+	color: #e48062;
+	letter-spacing: 0.1em;
+	text-align: left;
+	padding-bottom: 20px;
+	padding-top: 40px;
+	font-weight: 600;
+
+}
+
+/*#ultra1 h2{
 		font-family:'Roboto Condensed', sans-serif;
 	font-size: 20px;
 	text-transform: uppercase;
@@ -1091,7 +1268,7 @@ font-family: 'Satisfy', cursive, 'Amatica SC', cursive;
 	line-height: 32px;
 	color: white;
 		font-family: 'Roboto Condensed', sans-serif;
-		padding-bottom: 10px;
+		padding-bottom: 10px;*/
 
 
 }
@@ -1140,8 +1317,8 @@ font-family: 'Satisfy', cursive, 'Amatica SC', cursive;
 }
 
 #concept h1 {
-font-family: 'Satisfy', cursive, 'Amatica SC', cursive;
-	font-size: 45px;
+font-family: 'Playfair Display', serif;
+	font-size: 42px;
 	color: white;
 	text-align: center;
 	padding-bottom: 60px;
@@ -1279,8 +1456,8 @@ font-family:'Roboto Condensed', sans-serif;
 }
 
 #responsiveultra h1 {
-font-family: 'Satisfy', cursive, 'Amatica SC', cursive;
-	font-size: 45px;
+font-family: 'Playfair Display', serif;
+	font-size: 42px;
 	color: white;
 	text-align: center;
 	padding-bottom: 60px;
@@ -1416,6 +1593,13 @@ span {
 
 }
 
+.zeitimg {
+	max-width: 800px;
+	max-height: 800px;
+
+}
+
+
 #website {
  	background-color: #f3f3f3;
  	/*background-image: url("././img/ultrabg.png");*/
@@ -1493,7 +1677,15 @@ text-align: center;
 		margin-right: 120px;
 
 
+
+
+
 }
+
+
+
+
+
 
 #iconssheight {
 	padding-top: 60px;
@@ -1553,7 +1745,14 @@ font-family: 'Satisfy', cursive, 'Amatica SC', cursive;
 }
 
 #perspective {
-	background-color: #d0d0d0;
+	background-color: #fbe7eb;
+
+}
+
+#perspective img {
+	max-width: 800px;
+	max-height: 800px;
+	
 }
 
 #mockups {
@@ -1770,12 +1969,14 @@ a:link {
 }
 
 #footer2  {
-	background-color: #414043;
+	background-color: #fdf0f3;
+	border-top: 2px;
+	border-color: 32429b;
 }
 
 
 #footer2 p  {
-	color: white;
+	color: #3c286a;
 	font-size: 11px;
 }
 
