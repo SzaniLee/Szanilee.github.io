@@ -2,42 +2,11 @@
 
 
     /* Extra small devices (phones, up to 480px) */
-@media screen and (max-width: 767px) {
-	    .headerheader-inner #hello 	 h1 {
-   		font-size: 50px !important; padding-right: 30px}
-   	}
-   	.headerheader-inner #hello .headerp p { padding-top: 10px; padding-right: 30px}
- 
-    }
-    #headerpart {
 
-    }
-
-    .firsticon, .seconddicon, .thirdicon { padding-right: 20px;}
-
-   .aboutmeimage {
-    	padding-top: 30px;
-    	; 
-    	}
-
-    .projectimage { padding-top: 50px; }
-
-
-   #concept h5 { font-size: 12px;}
-
- #digitalwork, #eyesproject { background-image: url("././img/bgbigger.png") no-repeat center center fixed; 
--webkit-background-size: cover;
--moz-background-size: cover;
--o-background-size: cover;
-background-size: cover;
-   }
-      	#responsiveultra h1 { font-size: 20px; }
-
-}
 /* Small devices (tablets, 768px and up) */
-@media (min-width: 768px) and (max-width: 991px) {
+@media (min-width: 576px) {
 	   	 .headerheader-inner #hello h1 {
-   		font-size: 40px !important;
+   		font-size: 38px ;
    	}
    	.headerheader-inner #hello .headerp p { padding-top: 20px; padding-right: 30px}
  
@@ -52,29 +21,97 @@ background-size: cover;
     	max-height: 300px;}
 
     .projectimage { padding-top: 50px; }
- /* #portfolio , #digitalwork { background-image: url("././img/bgbigger3.png") no-repeat center center fixed !important;*/
--webkit-background-size: cover !important;
--moz-background-size: cover!important;
--o-background-size: cover !important;
-background-size: cover !important;
-   }
-   	#responsiveultra h1 { font-size: 20px; }
 
-   	.hobbies img{
-   		float: center;
+     .market {
+
+
+   		margin-right: 30px !important ;
+   		margin-left: 0px !important;}
+
+   		
    	}
+ /* #portfolio , #digitalwork { background-image: url("././img/bgbigger3.png") no-repeat center center fixed !important;*/
 
-}
+
+   	
 /* tablets/desktops and up ———– */
-@media (min-width: 992px) and (max-width: 1199px) {
+@media (min-width: 768px) {
 	.headerheader-inner #hello .headerp p { padding-top: 20px; padding-right: 30px}
 	 .headerheader-inner #hello h1 {
-   		padding-top: 40px !important;
+   		padding-top: 40px ;
    	}
+
+
+   	.zeitmargin {
+
+   		margin-right: 100px;
+   		margin-left: 100px;
+   		
+   	}
+
+   	 .market {
+
+   		margin-right: 140px !important;
+   		margin-left: 100px !important;}
+
+   	.navbar.navbar-fixed-top {
+	background-color: white;
+	border-color: transparent;
+	padding-right: 60px;}
 }
 /* large desktops and up ———– */
-@media screen and (min-width: 1200px) {
-	.headerheader-inner #hello h1{ padding-top: 190px;}
+@media (min-width: 992px)  {
+	.headerheader-inner #hello h1{ padding-top: 120px;}
+	.headerheader-inner #hello .headerp p { padding-top: 0px; padding-right: 0px}
+		/*.zeitmargin {
+
+   		margin-right: 140px !important;
+   		margin-left: 100px !important;*/
+
+   		 .market {
+
+   		margin-right: 140px !important;
+   		margin-left: 100px !important;}
+
+}
+
+
+@media (min-width: 1220px)  {
+	.headerheader-inner #hello h1{ padding-top: 180px;}
+	.headerheader-inner #hello .headerp p { padding-top: 0px; padding-right: 0px}
+		/*.zeitmargin {
+
+   		margin-right: 140px !important;
+   		margin-left: 100px !important;*/
+
+   		 .market {
+
+   		margin-right: 140px !important;
+   		margin-left: 100px !important;}
+
+}
+
+
+
+
+
+
+
+.navbar.navbar-fixed-top {
+	background-color: white;
+	border-color: transparent;
+	padding-right: 60px;}
+   		
+   	}
+   
+
+
+   		/*.container2 {
+   			padding-right: 130px !important;
+   			padding-left: 110px !important;*/
+   		}
+   		
+   	
 }
 
 
@@ -83,7 +120,7 @@ background-size: cover !important;
 	color: #16152b !important;
 	font-family:'Roboto Condensed', sans-serif;
 	font-weight: 600;
-	text-transform: uppercase;
+	text-transform: uppercase !important;
 	background-color: transparent !important;
  }
 
@@ -100,13 +137,13 @@ background-size: cover !important;
 .navbar.navbar-fixed-top {
 	background-color: white;
 	border-color: transparent;
-	padding-right: 60px;
+	padding-right: 0px;
 }
 
 
 #container {
 	margin-right: 0px;
-	background-color: #d0d0d0 !important;
+	background-color: #f4f4f4 !important;
 
 
 }
@@ -166,7 +203,7 @@ html, body {
     margin: 0px;
     padding: 0px;
     overflow-x: hidden;
-    background-color: #d1d2d1 !important;
+    background-color: white !important;
 
 }
 #headerl{
@@ -187,7 +224,7 @@ html, body {
 
 		font-family: 'Playfair Display', serif;
 	font-size: 64px;
-	font-weight: 900;
+	font-weight: 800;
 
 
 
@@ -371,6 +408,12 @@ background: fixed;
 	
 }
 
+#header{
+
+	margin-right: 30px !important;
+	
+}
+
 .nopadding{
 	padding: 0 !important;
    margin: 0 !important;
@@ -380,7 +423,7 @@ background: fixed;
 
 		background-color: #f3f2f4 !important;
 	
-	padding-right: 20px;
+	padding-right: 35px;
 	background: fixed;
 		background-repeat: no-repeat;
 		padding-bottom: 70px;
@@ -433,7 +476,7 @@ font-family: 'Playfair Display', serif;
 
 
 #portfolioheight {
-	padding-top: 30px;
+	padding-top: 40px;
 	padding-bottom: 5px;
 
 
@@ -456,7 +499,7 @@ font-family: 'Playfair Display', serif;
 	background: #ffffff !important;
 	padding-top: 40px;
 	padding-bottom: 40px;
-	padding-right: 20px;
+	margin-right: 30px;
 	background: fixed;
 	background-repeat: no-repeat;
 
@@ -526,7 +569,7 @@ padding-right: 20px;
 
 #footer2 {
 
-background-color: #32429a;
+background-color: white;
 
 padding-right: 20px;
 }
@@ -555,10 +598,10 @@ padding-right: 20px;
 }
 
 
-.zeitintro p, ul, li {
+.zeitintro p  {
 
 	font-size: 14px;
-	line-height: 18px;
+	line-height: 18px !important;
 	color: #16152b;
 		font-family:'Roboto Condensed', sans-serif;
 		padding-bottom: 0px;
@@ -596,7 +639,7 @@ padding-right: 20px;
 	letter-spacing: 0.1em;
 	text-align: left;
 	padding-bottom: 0px;
-	padding-top: 10px;
+	
 	font-weight: 600;
 }
 
@@ -604,6 +647,7 @@ padding-right: 20px;
 .zeitintro {
 
 	padding-bottom: 40px;
+	padding-top:20px;
 	
 
 
@@ -634,6 +678,8 @@ font-family: 'Playfair Display', serif;
 	
 
 }
+
+
 
 
 .demo-problem, .demo-solution {
@@ -794,7 +840,7 @@ p {
 	font-size: 14px;
 	text-transform: uppercase;
 	color: white;
-	font-weight: 800 !important;
+	font-weight: 600 !important;
 	
 	
 }
@@ -837,7 +883,7 @@ button {
 
 .headerp button.btn.btn-default {
 
-   margin-left: 20px !important;
+   margin-left: 30px !important;
   /*top: 50%;*/
  
 
@@ -1317,7 +1363,7 @@ font-family: 'Playfair Display', serif;
 }
 
 #design .market {
-	margin-right: 20px;
+	margin-right: 0px;
 }
 
 #research h4, #define h4, #design h4 {
@@ -1355,6 +1401,20 @@ font-family: 'Playfair Display', serif;
 
 }
 
+
+.market h6 {
+	
+	font-size: 14px;
+	line-height: 28px;
+	color: #16152b;
+	font-family:'Roboto Condensed', sans-serif;
+	padding-bottom: 0px;
+	text-align: left;
+	padding-top: 20px;
+
+
+}
+
 .designmargin  {
 	
 	margin-right: 20px;
@@ -1365,7 +1425,8 @@ font-family: 'Playfair Display', serif;
 
 .market, .researchtitle  {
 	
-	margin-right: 20px;
+	margin-right: 0px;
+
 
 
 }
@@ -1444,8 +1505,24 @@ font-family: 'Playfair Display', serif;
 	color: #16152b;
 	letter-spacing: 0.1em;
 	text-align: left;
+	padding-bottom: 20px;
+	padding-top: 60px;
+	font-weight: 600;
+	
+
+
+
+}
+
+
+#zeitheader h5 {
+	font-family: 'Playfair Display', serif;
+	font-size: 17px;
+	color: #16152b;
+	letter-spacing: 0.1em;
+	text-align: left;
 	padding-bottom: 40px;
-	padding-top: 0px;
+	padding-top: 10px;
 	font-weight: 600;
 	
 
@@ -1469,6 +1546,25 @@ font-family: 'Playfair Display', serif;
 
 
 }
+
+
+.designthinking h3 {
+	font-family: 'Playfair Display', serif;
+	font-size: 17px;
+	color: #16152b;
+	letter-spacing: 0.1em;
+	text-align: center;
+	padding-bottom: 10px;
+	padding-top: 60px;
+	font-weight: 600;
+	
+
+
+
+}
+
+
+
 
 
 #tasks h3 {
@@ -2226,7 +2322,7 @@ a:link {
 }
 
 #footer2  {
-	background-color: #fdf0f3;
+	background-color: white;
 	border-top: 2px;
 	border-color: 32429b;
 }
