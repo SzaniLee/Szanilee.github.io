@@ -232,10 +232,14 @@ html, body {
 	text-align: center;
 }
 
+
+
+
+
 .headerheader #hello p {
 	padding-bottom: 30px;
 	line-height: 28px;
-	font-size: 14px;
+	font-size: 17px;
 	color: #15142a;
 	font-family: 'Playfair Display', serif;
 	font-weight: 800;
@@ -603,7 +607,7 @@ padding-right: 20px;
 	font-size: 14px;
 	line-height: 18px !important;
 	color: #16152b;
-		font-family:'Roboto Condensed', sans-serif;
+		font-family: 'Roboto Condensed', sans-serif;
 		padding-bottom: 0px;
 		text-align: left;
 
