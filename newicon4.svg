@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 800 800" style="enable-background:new 0 0 800 800;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:url(#XMLID_18_);stroke:url(#XMLID_19_);stroke-miterlimit:10;}
+	.st1{fill:none;stroke:#FFFFFF;stroke-width:6;stroke-miterlimit:10;}
+	.st2{fill:none;stroke:#FFFFFF;stroke-width:2;stroke-miterlimit:10;}
+	.st3{fill:none;stroke:#FFFFFF;stroke-width:4;stroke-miterlimit:10;}
+	.st4{fill:#FFFFFF;}
+	.st5{fill:none;stroke:#FFFFFF;stroke-width:8;stroke-miterlimit:10;}
+</style>
+<linearGradient id="XMLID_18_" gradientUnits="userSpaceOnUse" x1="60" y1="393.2575" x2="753" y2="393.2575">
+	<stop  offset="0" style="stop-color:#D2D2D2"/>
+	<stop  offset="1" style="stop-color:#C3DCCA"/>
+</linearGradient>
+<linearGradient id="XMLID_19_" gradientUnits="userSpaceOnUse" x1="59.5" y1="393.2575" x2="753.5" y2="393.2575">
+	<stop  offset="0" style="stop-color:#D2D2D2"/>
+	<stop  offset="1" style="stop-color:#C1E4DB"/>
+</linearGradient>
+<ellipse id="XMLID_3_" class="st0" cx="406.5" cy="393.3" rx="346.5" ry="329.5"/>
+<path id="XMLID_6_" class="st1" d="M504.5,174"/>
+<path id="XMLID_1_" class="st1" d="M326.9,494"/>
+<path id="XMLID_7_" class="st1" d="M538.4,191.7"/>
+<path id="XMLID_2_" class="st1" d="M358.1,510.2"/>
+<path id="XMLID_9_" class="st2" d="M313.8,571.8"/>
+<path id="XMLID_8_" class="st2" d="M306.2,565.6"/>
+<path id="XMLID_16_" class="st3" d="M494.8,238.8"/>
+<path id="XMLID_15_" class="st3" d="M387.8,350.8"/>
+<path id="XMLID_33_" class="st4" d="M611.3,369.2l-16,3.2c-1.6-7.2-3.2-15.2-5.6-22.4l15.2-4.8C607.3,352.4,609.7,361.2,611.3,369.2
+	z"/>
+<path id="XMLID_32_" class="st4" d="M596.1,321.2l-14.4,6.4c-3.2-7.2-7.2-13.6-11.2-20.8l13.6-8C588.9,306,592.9,314,596.1,321.2z"
+	/>
+<path id="XMLID_29_" class="st4" d="M606.5,438.8c8.8,0,16-7.2,16-16s-7.2-16-16-16s-16,7.2-16,16S597.7,438.8,606.5,438.8z
+	 M606.5,390.8c17.6,0,32,14.4,32,32s-14.4,32-32,32s-32-14.4-32-32S588.9,390.8,606.5,390.8z"/>
+<path id="XMLID_28_" class="st4" d="M570.5,278l-12.8,9.6c-4.8-6.4-9.6-12-15.2-17.6l11.2-11.2C559.3,265.2,564.9,271.6,570.5,278z"
+	/>
+<path id="XMLID_27_" class="st4" d="M524.9,255.6c-6.4-4.8-12.8-9.6-19.2-13.6l8-13.6"/>
+<path id="XMLID_26_" class="st4" d="M278.5,242.8c6.4-4.8,12.8-9.6,20-13.6l8,13.6"/>
+<path id="XMLID_25_" class="st4" d="M259.3,259.6l11.2,11.2c-5.6,5.6-10.4,11.2-15.2,17.6l-12.8-9.6
+	C248.1,271.6,253.7,266,259.3,259.6z"/>
+<path id="XMLID_24_" class="st4" d="M228.1,298.8l13.6,8c-4,6.4-7.2,13.6-10.4,20.8l-14.4-6.4C220.1,314,224.1,306.8,228.1,298.8z"
+	/>
+<path id="XMLID_22_" class="st4" d="M208.1,345.2l15.2,4.8c-2.4,7.2-4,15.2-5.6,22.4l-16-3.2C203.3,361.2,205.7,353.2,208.1,345.2z"
+	/>
+<path id="XMLID_13_" class="st4" d="M606.5,214.8v-16h-16v16H606.5z M238.5,198.8h145.6c3.2-9.6,12-16,22.4-16s19.2,6.4,22.4,16
+	h145.6v-8c0-4,4-8,8-8h32c4,0,8,4,8,8v32c0,4.8-4,8-8,8h-32c-4,0-8-3.2-8-8v-8h-88c1.6,0.8,4,1.6,5.6,2.4l-6.4,14.4
+	c-7.2-3.2-14.4-5.6-21.6-8l2.4-8.8h-24.8l-0.8,3.2c-4-0.8-8-1.6-12-1.6c-4,8-12.8,14.4-22.4,14.4s-18.4-6.4-22.4-14.4
+	c-4,0.8-8,0.8-12.8,1.6v-3.2h-24.8l2.4,8.8c-7.2,2.4-14.4,4.8-21.6,8l-6.4-14.4c1.6-0.8,4-1.6,5.6-2.4h-88v8c0,4.8-3.2,8-8,8h-32
+	c-4.8,0-8-3.2-8-8v-32c0-4,3.2-8,8-8h32c4.8,0,8,4,8,8V198.8z M206.5,214.8h16v-16h-16V214.8z"/>
+<path id="XMLID_10_" class="st4" d="M174.5,422.8c0-17.6,14.4-32,32-32s32,14.4,32,32s-14.4,32-32,32S174.5,440.4,174.5,422.8z
+	 M222.5,422.8c0-8.8-7.2-16-16-16s-16,7.2-16,16s7.2,16,16,16S222.5,431.6,222.5,422.8z"/>
+<g id="XMLID_43_">
+	<path id="XMLID_53_" class="st4" d="M455.2,578.7h-98.7v-6.5c0-37.8-32.4-68.5-72.2-68.5h-11.1l132.6-252l132.6,252h-11.1
+		c-39.8,0-72.2,30.7-72.2,68.5L455.2,578.7L455.2,578.7z M369.8,565.7h71.9c3.2-38.5,34.8-69.6,74.9-74.4L405.8,280.7L295,491.3
+		C335,496,366.6,527.1,369.8,565.7z"/>
+	<rect id="XMLID_39_" x="326.8" y="565.7" class="st4" width="158" height="13"/>
+	<path id="XMLID_49_" class="st4" d="M467.3,647.9h-123v-82.3h123V647.9z M357.9,635h95.7v-56.3h-95.7V635z"/>
+	<rect id="XMLID_36_" x="384.3" y="539.7" class="st4" width="43" height="13"/>
+	<path id="XMLID_45_" class="st4" d="M405.8,480.2c-17.2,0-31.2-13.3-31.2-29.6c0-16.3,14-29.6,31.2-29.6
+		c17.2,0,31.1,13.3,31.1,29.6C436.9,466.9,423,480.2,405.8,480.2z M405.8,434c-9.6,0-17.5,7.4-17.5,16.6c0,9.1,7.8,16.6,17.5,16.6
+		c9.6,0,17.5-7.4,17.5-16.6C423.3,441.5,415.4,434,405.8,434z"/>
+	<rect id="XMLID_34_" x="399" y="266.2" class="st4" width="13.7" height="161.3"/>
+</g>
+<ellipse id="XMLID_4_" class="st5" cx="404.5" cy="394" rx="390.5" ry="374"/>
+</svg>
