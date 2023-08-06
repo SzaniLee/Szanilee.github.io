@@ -122,8 +122,8 @@
 
 .navbar.navbar-fixed-top a {
 	font-size: 15px !important;
-	color: #16152b !important;
-	font-family:'Roboto Condensed', sans-serif;
+	color: #15161F !important;
+	font-family:'Inter', sans-serif;
 	font-weight: 600;
 	text-transform: uppercase !important;
 	background-color: transparent !important;
@@ -134,8 +134,8 @@
 .navbar.navbar-fixed-top a:hover {
 	background-color: #f2c9c9 !important;
 	font-size: 15px !important;
-	color: #3d2269 !important;
-	font-family:'Roboto Condensed', sans-serif;
+	color: #15161F !important;
+	font-family:'Inter', sans-serif;
 
 }
 
@@ -168,9 +168,9 @@
 
 }
 .navbar.navbar-default{
-	background-color: #15142A;
+	background-color: #15161F;
  	border-color: transparent;
- 	background: #15142A;
+ 	background: #15161F;
  	margin-bottom:  0px !important;
 
 }
@@ -245,7 +245,7 @@ html, body {
 
 #headerbig {
 
-background-color: #15142a;
+background-color: #15161F;
 
 }
 
@@ -253,9 +253,9 @@ background-color: #15142a;
 .headerheader #hello p {
 	padding-bottom: 30px;
 	line-height: 28px;
-	font-size: 17px;
+	font-size: 15px !important;
 	color: #FFFFFF;
-	font-family: 'Playfair Display', serif;
+	font-family: 'Inter', serif;
 	font-weight: 800;
 
 
@@ -308,15 +308,15 @@ background: fixed;
 
 #portfolio h1 {
 
-	color: #16152b !important;
+	color: #15161F !important;
 }
 
 #portfolio p {
 
 	font-size: 15px !important;
 	line-height: 28px;
-	color: #16152b;
-		font-family:'Roboto Condensed', sans-serif;
+	color: #15161F;
+		font-family:'Inter', sans-serif;
 		padding-bottom: 5px;
 		text-align: center;
 }
@@ -326,13 +326,13 @@ background: fixed;
 
 
 	color: white;
-		font-family: 'Roboto Condensed', sans-serif;
-		color: #16152b;
+		font-family: 'Inter', sans-serif;
+		color: #15161F;
 
 	font-size: 16px;
 	font-style: bold;
 	
-		font-family: 'Roboto Condensed', sans-serif;
+		font-family: 'Inter', sans-serif;
 		padding-bottom: 20px;
 
 }
@@ -446,7 +446,7 @@ background: fixed;
 }
 #portfolio {
 
-		background-color: #f3f2f4 !important;
+		background-color: #Ffffff !important;
 	
 	padding-right: 35px;
 	background: fixed;
@@ -472,7 +472,7 @@ font-family: 'Playfair Display', serif;
 	font-size: 38px;
 	letter-spacing: 0.1em;
 	font-style: bold;
-	color: #16152b;
+	color: #15161F;
 	text-align: center;
 	padding-bottom: 30px;
 	font-weight: 800;
@@ -484,7 +484,7 @@ font-family: 'Playfair Display', serif;
 	font-size: 24px;
 	text-transform: uppercase;
 	font-style: bold;
-	color: #16152b;
+	color: #15161F;
 	font-kerning: 10px;
 }
 
@@ -493,7 +493,7 @@ font-family: 'Playfair Display', serif;
 	font-family: 'Playfair Display', serif;
 	font-size: 22px;
 	font-weight: 800;
-	color: #16152b;
+	color: #15161F;
 	text-align: center;
 	padding-bottom: 0px;
 	padding-top: 0px;
@@ -521,7 +521,7 @@ font-family: 'Playfair Display', serif;
 #about{
 
 
-	background: #15142A !important;
+	background: #15161F !important;
 	padding-top: 40px;
 	padding-bottom: 40px;
 	margin-right: 0px;
@@ -587,7 +587,7 @@ font-family: 'Playfair Display', serif;
 
 #footer {
 
-background-color: #15142a;
+background-color: #15161F;
 
 padding-right: 20px;
 }
@@ -627,8 +627,8 @@ padding-right: 20px;
 
 	font-size: 16px;
 	line-height: 18px !important;
-	color: #16152b;
-		font-family: 'Roboto Condensed', sans-serif;
+	color: #15161F;
+		font-family: 'Inter', sans-serif;
 		padding-bottom: 0px;
 		text-align: left;
 
@@ -637,7 +637,7 @@ padding-right: 20px;
 .zeitintro h2 {
 		font-family: 'Playfair Display', serif;
 	font-size: 38px;
-	color: #16152b;
+	color: #15161F;
 	letter-spacing: 0.1em;
 	text-align: left;
 	padding-bottom: 0px;
@@ -649,8 +649,8 @@ padding-right: 20px;
 
 	font-size: 15px;
 	line-height: 18px;
-	color: #16152b;
-		font-family:'Roboto Condensed', sans-serif;
+	color: #15161F;
+		font-family:'Inter', sans-serif;
 		padding-bottom: 0px;
 		text-align: left;
 
@@ -660,7 +660,7 @@ padding-right: 20px;
 	#zeitheader h1 {
 		font-family: 'Playfair Display', serif;
 	font-size: 38px;
-	color: #16152b;
+	color: #15161F;
 	letter-spacing: 0.1em;
 	text-align: left;
 	padding-bottom: 0px;
@@ -682,8 +682,8 @@ padding-right: 20px;
 
 	font-size: 12px;
 	line-height: 28px;
-	color: #16152b;
-	font-family:'Roboto Condensed', sans-serif;
+	color: #15161F;
+	font-family:'Inter', sans-serif;
 	padding-top: 0px;
 	text-align: left;
 
@@ -694,7 +694,7 @@ padding-right: 20px;
 .designthinking h3 {
 font-family: 'Playfair Display', serif;
 	font-size: 17px;
-	color: #16152b;
+	color: #15161F;
 	letter-spacing: 0.1em;
 	text-align: center;
 	padding-bottom: 0px;
@@ -712,7 +712,7 @@ font-family: 'Playfair Display', serif;
   position: center;
   font-style: bold;
   color: white;
-		font-family:'Roboto Condensed', sans-serif;
+		font-family:'Inter', sans-serif;
 }
 
 .demo-solution--flexbox {
@@ -732,7 +732,7 @@ font-family: 'Playfair Display', serif;
 	font-style: bold;
 	padding-bottom: 40px;
 	
-		font-family: 'Roboto Condensed', sans-serif;
+		font-family: 'Inter', sans-serif;
 
 
 
@@ -743,7 +743,7 @@ font-family: 'Playfair Display', serif;
 	font-size: 17px;
 		float: left;
 	font-style: bold;
-	font-family: 'Roboto Condensed', sans-serif;
+	font-family: 'RInter', sans-serif;
 
 
 
@@ -758,7 +758,7 @@ font-family: 'Playfair Display', serif;
 	text-transform: uppercase;
 	font-style: bold;
 	
-		font-family: 'Roboto Condensed', sans-serif;
+		font-family: 'Inter', sans-serif;
 
 }
 
@@ -796,7 +796,7 @@ p {
 	text-transform: uppercase;
 	font-weight: 800em;
 	font-size: 15px;
-	font-family:'Roboto Condensed', sans-serif;
+	font-family:'Inter', sans-serif;
 	font-style: bold;
 	
 }
@@ -806,7 +806,7 @@ p {
 	text-transform: uppercase;
 	font-weight: 800em;
 	font-size: 15px;
-	font-family:'Roboto Condensed', sans-serif;
+	font-family:'Inter', sans-serif;
 	font-style: bold;
 }
 
@@ -825,10 +825,10 @@ p {
 }
 
 #about p {
-		font-size: 16px;
+		font-size: 15px;
 	line-height: 28px;
 	color: #EEEEEE;
-		font-family:'Roboto Condensed', sans-serif;
+		font-family:'Inter', sans-serif;
 		padding-bottom: 5px;
 		text-align: left;
 
@@ -839,7 +839,7 @@ p {
 		font-size: 15px;
 	line-height: 28px;
 	color: #EEEEEE;
-		font-family:'Roboto Condensed', sans-serif;
+		font-family:'Inter', sans-serif;
 		padding-bottom: 5px;
 		text-align: left;
 
@@ -850,7 +850,7 @@ p {
 		font-size: 15px;
 	line-height: 34px;
 	color: white;
-	font-family: 'Roboto Condensed', sans-serif;
+	font-family: 'Inter', sans-serif;
 		padding-bottom: 20px;
 }
 
@@ -861,11 +861,11 @@ p {
 }
 .btn{
 	background: #a7d8bc;
-	font-family:'Roboto Condensed', sans-serif;
+	font-family:'Inter', sans-serif;
 	font-size: 15px;
-	text-transform: uppercase;
+
 	color: white;
-	font-weight: 600 !important;
+	font-weight: 800 !important;
 	
 	
 }
@@ -881,8 +881,8 @@ p {
 
 li a{
 
-	color: #16152b !important;
-	font-family:'Roboto Condensed', sans-serif;
+	color: #15161F !important;
+	font-family:'Inter', sans-serif;
 	font-size: 15px;
 
 
@@ -890,8 +890,8 @@ li a{
 
  li a:hover{
 
-	color: #16152b;
-	font-family:'Roboto Condensed', sans-serif;
+	color: #15161F;
+	font-family:'Inter', sans-serif;
 	font-size: 15px;
 
 
@@ -939,7 +939,7 @@ button.btn.btn-lg a {
 
 button.btn.btn-default{
 
-	color: #15142a;
+	color: #15161F;
 	background-color: #f2c9c9 !important;
 	border-style: solid;
 	border-color: #3d2269;
@@ -969,9 +969,9 @@ button.btn.btn-default:focus{
 }
 button.btn.btn-default:hover{
 
-background-color: #ef9531 !important;
+background-color: #E5A0A0 !important;
 border: solid !important;
-color: #3c286a;
+color: #15161F;
 	border-color: white ;
 	border-width: 0px !important;
 
@@ -1308,7 +1308,7 @@ text-align: center;
 #zeit1 h2 {
 font-family: 'Playfair Display', serif;
 	font-size: 38px;
-	color: #16152b !important;
+	color: #15161F !important;
 	letter-spacing: 0.1em;
 	text-align: left;
 	padding-top: 30px;
@@ -1323,7 +1323,7 @@ font-family: 'Playfair Display', serif;
 #research h2 {
 font-family: 'Playfair Display', serif;
 	font-size: 38px;
-	color: #16152b !important;
+	color: #15161F !important;
 	letter-spacing: 0.1em;
 	text-align: left;
 	padding-top: 30px;
@@ -1336,7 +1336,7 @@ font-family: 'Playfair Display', serif;
 #design h2 {
 font-family: 'Playfair Display', serif;
 	font-size: 38px;
-	color: #16152b !important;
+	color: #15161F !important;
 	letter-spacing: 0.1em;
 	text-align: left;
 	padding-top: 30px;
@@ -1350,7 +1350,7 @@ font-family: 'Playfair Display', serif;
 #define h2 {
 font-family: 'Playfair Display', serif;
 	font-size: 38px;
-	color: #16152b !important;
+	color: #15161F !important;
 	letter-spacing: 0.1em;
 	text-align: left;
 	padding-top: 30px;
@@ -1372,7 +1372,7 @@ font-family: 'Playfair Display', serif;
 
 #research {
 	
-	background-color: #f4f4f4;
+	background-color: #Fffffff;
 	padding-top: 40px;
 	padding-bottom: 70px;
 	
@@ -1396,8 +1396,8 @@ font-family: 'Playfair Display', serif;
 	font-size: 15px;
 	padding-bottom: 10px;
 	line-height: 18px;
-	color: #16152b;
-	font-family:'Roboto Condensed', sans-serif;
+	color: #15161F;
+	font-family:'Inter', sans-serif;
 	padding-bottom: 0px;
 	text-align: left;
 
@@ -1418,8 +1418,8 @@ font-family: 'Playfair Display', serif;
 	
 	font-size: 15px;
 	line-height: 28px;
-	color: #16152b;
-	font-family:'Roboto Condensed', sans-serif;
+	color: #15161F;
+	font-family:'Inter', sans-serif;
 	padding-bottom: 0px;
 	text-align: left;
 
@@ -1431,8 +1431,8 @@ font-family: 'Playfair Display', serif;
 	
 	font-size: 15px;
 	line-height: 28px;
-	color: #16152b;
-	font-family:'Roboto Condensed', sans-serif;
+	color: #15161F;
+	font-family:'Inter', sans-serif;
 	padding-bottom: 0px;
 	text-align: left;
 	padding-top: 20px;
@@ -1480,8 +1480,8 @@ font-family: 'Playfair Display', serif;
 #zeit1 p, ul, li {
 	font-size: 15px;
 	line-height: 28px;
-	color: #16152b;
-	font-family:'Roboto Condensed', sans-serif;
+	color: #15161F;
+	font-family:'Inter', sans-serif;
 	padding-bottom: 0px;
 	text-align: left;
 
@@ -1497,7 +1497,7 @@ font-family: 'Playfair Display', serif;
 #zeitheader h2 {
 	font-family: 'Playfair Display', serif;
 	font-size: 38px;
-	color: #16152b;
+	color: #15161F;
 	letter-spacing: 0.1em;
 	text-align: left;
 	padding-bottom: 0px;
@@ -1508,14 +1508,14 @@ font-family: 'Playfair Display', serif;
 
 }
 #zeitheader {
-	background-color: #f4f4f4;
+	background-color: #F6F9FF;
 
 
 
 
 }
 .zeitmargin {
-	background-color: #f4f4f4;
+	background-color: #F6F9FF;
 	margin-right: 20px;
 
 
@@ -1527,7 +1527,7 @@ font-family: 'Playfair Display', serif;
 #zeitheader h3 {
 	font-family: 'Playfair Display', serif;
 	font-size: 17px;
-	color: #16152b;
+	color: #15161F;
 	letter-spacing: 0.1em;
 	text-align: left;
 	padding-bottom: 20px;
@@ -1543,7 +1543,7 @@ font-family: 'Playfair Display', serif;
 #zeitheader h5 {
 	font-family: 'Playfair Display', serif;
 	font-size: 17px;
-	color: #16152b;
+	color: #15161F;
 	letter-spacing: 0.1em;
 	text-align: left;
 	padding-bottom: 40px;
@@ -1559,13 +1559,13 @@ font-family: 'Playfair Display', serif;
 
 .market h3, .designmargin h3 {
 	font-family: 'Playfair Display', serif;
-	font-size: 17px;
-	color: #16152b;
+	font-size: 20px;
+	color: #15161F;
 	letter-spacing: 0.1em;
 	text-align: left;
 	padding-bottom: 10px;
 	padding-top: 60px;
-	font-weight: 600;
+	font-weight: 900;
 	
 
 
@@ -1576,7 +1576,7 @@ font-family: 'Playfair Display', serif;
 .designthinking h3 {
 	font-family: 'Playfair Display', serif;
 	font-size: 17px;
-	color: #16152b;
+	color: #15161F;
 	letter-spacing: 0.1em;
 	text-align: center;
 	padding-bottom: 10px;
@@ -1595,7 +1595,7 @@ font-family: 'Playfair Display', serif;
 #tasks h3 {
 	font-family: 'Playfair Display', serif;
 	font-size: 17px;
-	color: #16152b;
+	color: #15161F;
 	letter-spacing: 0.1em;
 	text-align: left;
 	padding-bottom: 10px;
@@ -1618,7 +1618,7 @@ font-family: 'Playfair Display', serif;
 #aboutproject h3 {
 font-family: 'Playfair Display', serif;
 	font-size: 17px;
-	color: #16152b;
+	color: #15161F;
 	letter-spacing: 0.1em;
 	text-align: left;
 	padding-bottom: 10px;
@@ -1672,7 +1672,7 @@ font-family: 'Playfair Display', serif;
 
 .firstpart {
 	color: #7f797a;
-	font-family:'Roboto Condensed', sans-serif;
+	font-family:'Inter', sans-serif;
 		font-size: 15px;
 	font-style: bold;
 	
@@ -1707,7 +1707,7 @@ font-family: 'Playfair Display', serif;
 #concept h2 {
 
 	color: #c1b6b9;
-font-family:'Roboto Condensed', sans-serif;
+font-family:'Inter', sans-serif;
 	font-size: 20px;
 	text-transform: uppercase;
 	font-style: bold;
@@ -1760,7 +1760,7 @@ font-size: 14px;
  }
 
  .robotofont p {
- 	font-family: 'Roboto Condensed', sans-serif;
+ 	font-family: 'Inter', sans-serif;
  font-size: 15px;
  	color: white;
  		line-height: 32px;
@@ -1768,7 +1768,7 @@ font-size: 14px;
  }
 
   .robotofont h3 {
- 	font-family: 'Roboto Condensed', sans-serif;
+ 	font-family: 'Inter', sans-serif;
  	font-size: 20px;
  	color: white;
  }
@@ -1787,7 +1787,7 @@ font-size: 14px;
 
 
 .colors p {
-		font-family: 'Roboto Condensed', sans-serif;
+		font-family: 'Inter', sans-serif;
  	font-size: 15px;
  	color: white;
  		line-height: 32px;
@@ -1801,7 +1801,7 @@ font-size: 14px;
 	font-size: 14px;
 	line-height: 32px;
 	color: white;
-		font-family: 'Roboto Condensed', sans-serif;
+		font-family: 'Inter', sans-serif;
 		padding-bottom: 10px;
 
 
@@ -1810,7 +1810,7 @@ font-size: 14px;
 #concept h5 {
 
 	color: #c1b6b9;
-font-family:'Roboto Condensed', sans-serif;
+font-family:'Inter', sans-serif;
 	font-size: 20px;
 	text-transform: uppercase;
 	font-style: bold;
@@ -1874,7 +1874,7 @@ font-family: 'Playfair Display', serif;
 	font-size: 17px;
 	line-height: 32px;
 	color: white;
-		font-family: 'Roboto Condensed', sans-serif;
+		font-family: 'Inter', sans-serif;
 		padding-bottom: 10px;
 
 }
@@ -1906,7 +1906,7 @@ font-family: 'Satisfy', cursive, 'Amatica SC', cursive;
 }
 
 #wireframe h2{
-		font-family:'Roboto Condensed', sans-serif;
+		font-family:'Inter', sans-serif;
 	font-size: 32px;
 	text-transform: uppercase;
 	font-style: bold;
@@ -1924,7 +1924,7 @@ font-family: 'Satisfy', cursive, 'Amatica SC', cursive;
 	font-size: 14px;
 	line-height: 32px;
 	color: white;
-		font-family: 'Roboto Condensed', sans-serif;
+		font-family: 'Inter', sans-serif;
 		padding-bottom: 50px;
 
 text-align: center;
@@ -1935,7 +1935,7 @@ text-align: center;
 	font-size: 25px;
 	line-height: 20px !important;
 	color: white;
-		font-family: 'Roboto Condensed', sans-serif;
+		font-family: 'Inter', sans-serif;
 		padding-bottom: 10px;
 		padding-bottom: 100px;
 		text-align: center;
@@ -1997,7 +1997,7 @@ span {
  }
 
 #website h5 {
-			font-family:'Roboto Condensed', sans-serif;
+			font-family:'Inter', sans-serif;
 	font-size: 18px;
 	text-transform: uppercase;
 	font-style: bold;
@@ -2032,7 +2032,7 @@ text-align: center;
 	font-size: 17px;
 	line-height: 28px;
 	color: white;
-		font-family: 'Roboto Condensed', sans-serif;
+		font-family: 'Inter', sans-serif;
 		padding-top: 10px;
 		padding-bottom: 60px;
 		text-align: center;
@@ -2046,7 +2046,7 @@ text-align: center;
 	font-size: 17px;
 	line-height: 28px;
 	color: white;
-		font-family: 'Roboto Condensed', sans-serif;
+		font-family: 'Inter', sans-serif;
 		padding-top: 10px;
 		padding-bottom: 60px;
 		text-align: center;
@@ -2177,7 +2177,7 @@ font-family: 'Satisfy', cursive, 'Amatica SC', cursive;
 	font-size: 14px;
 	line-height: 40px;
 	color: white;
-		font-family: 'Roboto Condensed', sans-serif;
+		font-family: 'Inter', sans-serif;
 		padding-top: 10px;
 		text-align: center;
 		letter-spacing: 2px;
@@ -2200,7 +2200,7 @@ background-image: url("././img/ultrabg.png");
 	font-size: 12px;
 	line-height: 28px;
 	color: white;
-		font-family: 'Roboto Condensed', sans-serif;
+		font-family: 'Inter', sans-serif;
 		padding-top: 10px;
 		letter-spacing: 2px;
 		text-align: center;
@@ -2236,7 +2236,7 @@ font-family: 'Satisfy', cursive, 'Amatica SC', cursive;
 		font-size: 14px;
 	line-height: 32px;
 	color: white;
-		font-family: 'Roboto Condensed', sans-serif;
+		font-family: 'Inter', sans-serif;
 		padding-bottom: 10px;
 		padding-top: 20px;
 
@@ -2247,7 +2247,7 @@ font-family: 'Satisfy', cursive, 'Amatica SC', cursive;
 	font-size: 14px;
 	
 	color: white;
-		font-family: 'Roboto Condensed', sans-serif;
+		font-family: 'Inter', sans-serif;
 	
 
 
@@ -2319,7 +2319,7 @@ font-family: 'Satisfy', cursive, 'Amatica SC', cursive;
 	font-size: 14px;
 	line-height: 32px;
 	color: white;
-		font-family: 'Roboto Condensed', sans-serif;
+		font-family: 'Inter', sans-serif;
 		padding-bottom: 40px;
 		padding-top: 20px;
 }
@@ -2354,7 +2354,7 @@ a:link {
 
 
 #footer2 p  {
-	color: #3c286a;
+	color: #15161F;
 	font-size: 11px;
 }
 
