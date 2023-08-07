@@ -256,7 +256,7 @@ background-color: #15161F;
 	font-size: 15px !important;
 	color: #FFFFFF;
 	font-family: 'Inter', serif;
-	font-weight: 600;
+	
 
 
 	text-align: center;
@@ -386,7 +386,7 @@ background: fixed;
 	font-family: 'Playfair Display', serif;
 	font-size: 38px;
 	letter-spacing: 0.1em;
-	font-style: bold;
+	font-style: regular;
 	color: white;
 	text-align: center;
 	padding-top: 40px;
