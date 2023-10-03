@@ -824,6 +824,20 @@ p {
 	padding-bottom: 10px;
 }
 
+
+
+.quote2 {
+	color: #15161F; 
+	font-family: 'Playfair Display', serif;
+	font-size: 22px;
+	
+	font-weight: 800;
+	font-kerning: 10px;
+	padding-top: 40px;
+	padding-bottom: 40px;
+
+}
+
 #about p {
 		font-size: 15px;
 	line-height: 28px;
@@ -1408,6 +1422,12 @@ font-family: 'Playfair Display', serif;
   background: linear-gradient(180deg,rgba(255,255,255,0) 50%, #f2c9c9 50%);
 }
 
+.lighthighlight {
+  background: #EEF3FF;
+ font-weight: 900;
+}
+
+
 
 #empathypic {
   padding-top: 40px;
@@ -1572,6 +1592,18 @@ font-family: 'Playfair Display', serif;
 
 }
 
+
+.market h6 {
+	font-family: 'Playfair Display', serif;
+	font-size: 16px !important; 
+	color: #15161F;
+	letter-spacing: 0.1em;
+	text-align: left;
+	padding-bottom: 10px;
+	padding-top: 60px;
+	font-weight: 900;
+
+}
 
 .designthinking h3 {
 	font-family: 'Playfair Display', serif;
